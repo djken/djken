@@ -9,8 +9,8 @@ Passionate about turning data into insights, building web applications, and expl
 - 3+ years managing IT infrastructure (150+ computers) and Windows Server environments  
 - 2+ years in **data management** and **web development**  
 - Experienced in **database administration**: MS Access, MS SQL Server, PostgreSQL, MySQL, IBM DB2 
-- Passionate about **AI fundamentals, Generative AI, and Azure AI services**
-- Web Dev Tools: **HTML, CSS, JavaScript, Wordpress, Django, Laravel, 
+- Passionate about **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**
+- Web Dev Tools: **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Wordpress, Django, Laravel, Next.js
 - Bilingual (French & English) and a lifelong learner  
 
 ---
