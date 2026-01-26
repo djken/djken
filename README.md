@@ -14,13 +14,6 @@ Passionate about turning data into insights, building web applications, and expl
 
 ---
 
-## 📚 Current Learning
-- **Data Analyst Lab** – NPower Canada 
-- **Data Science Lab** – WorldQuant University  
-- AI and Machine Learning projects with Python, Azure, and Jupyter Notebooks  
-
----
-
 ## 📫 Contact Me
 - [LinkedIn](linkedin.com/in/jkendess)  
 - [GitHub](https://github.com/djken)  
