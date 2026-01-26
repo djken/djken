@@ -5,16 +5,6 @@ Passionate about turning data into insights, building web applications, and expl
 
 ---
 
-## 🌟 About Me
-- 3+ years managing IT infrastructure (150+ computers) and Windows Server environments  
-- 2+ years in **data management** and **web development**  
-- Experienced in **database administration**: MS Access, MS SQL Server, PostgreSQL, MySQL, IBM DB2 
-- Passionate about **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**
-- Web Dev Tools: **HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Wordpress, Django, Laravel, Next.js
-- Bilingual (French & English) and a lifelong learner  
-
----
-
 ## 🛠️ Technologies & Skills
 **Programming & Data:** Python (Pandas, Numpy), SQL, Java, C#, PHP  
 **AI & ML:** Azure AI, Generative AI, NLP, Computer Vision  
@@ -28,13 +18,6 @@ Passionate about turning data into insights, building web applications, and expl
 - **Data Analyst Lab** – NPower Canada 
 - **Data Science Lab** – WorldQuant University  
 - AI and Machine Learning projects with Python, Azure, and Jupyter Notebooks  
-
----
-
-## 🚀 Projects
-- Benchmarked **large language models (LLMs)** on cloud and local environments  
-- Built **interactive dashboards** with IBM Cognos Analytics, Excel, and Python  
-- Developed **web applications** using Python & Django, PHP & Laravel 
 
 ---
 
