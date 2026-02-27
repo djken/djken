@@ -7,12 +7,12 @@
 ---
 
 ### 🚀 About Me
-Passionate about turning data into insights, building web applications, and exploring AI. I enjoy learning new technologies, solving problems, and sharing knowledge with others.
+Passionate about turning data into insights, information technology, and exploring AI. I enjoy learning new technologies, solving problems, and sharing knowledge with others. 
 
 - 🔭 I’m currently working on enhancing my AI & ML skills.
 - 🌱 I’m currently learning Generative AI and advanced NLP.
-- 💬 Ask me about Data Analysis, Python, or SQL.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jkendess)
+- 💬 Ask me about Data Analysis, Data Science, Information Technology and Programming.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/djken)
 
 ---
 
