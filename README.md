@@ -51,15 +51,6 @@ Passionate about turning data into insights, building web applications, and expl
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djken&show_icons=true&theme=radical" alt="djken's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djken&layout=compact&theme=radical" alt="djken's Top Langs" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/jkendess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jkendess" height="30" width="40" /></a>
