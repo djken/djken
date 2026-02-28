@@ -9,8 +9,11 @@
 ### 🚀 About Me
 Passionate about transforming data into meaningful insights, work in information technology, and explore artificial intelligence. I enjoy learning new technologies, solving complex problems, and sharing knowledge with others.. 
 
-- 🔭 I’m currently working on enhancing my AI & ML skills.
-- 🌱 I’m currently learning Generative AI and advanced NLP.
+> I am:
+- 🔭 currently working on enhancing my AI & ML skills.
+- 🔍 Committed to leveraging emerging technologies to solve real-world challenges.
+- 🌱 continuously expanding my knowledge in Artificial Intelligence (ML, DL, Generative AI, and NLP).
+> You could:
 - 💬 Ask me about Data Analysis, Data Science, Information Technology and Programming.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/djken)
 
