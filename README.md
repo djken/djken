@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-Passionate about transforming data into meaningful insights, work in information technology, and explore artificial intelligence. I enjoy learning new technologies, solving complex problems, and sharing knowledge with others.. 
+Passionate about transforming data into meaningful insights, work in information technology, and explore artificial intelligence. I enjoy learning new technologies, solving complex problems, and sharing knowledge with others.
 
 > I am:
 - 🔭 currently working on enhancing my AI & ML skills.
